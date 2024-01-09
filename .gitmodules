@@ -1,0 +1,6 @@
+[submodule "quiz-backend"]
+	path = quiz-backend
+	url = https://github.com/MCF512/quiz-backend.git
+[submodule "quiz"]
+	path = quiz
+	url = https://github.com/MCF512/quiz.git
